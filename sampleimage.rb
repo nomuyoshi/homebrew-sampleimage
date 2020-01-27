@@ -6,7 +6,7 @@ class Sampleimage < Formula
   homepage "https://github.com/nomuyoshi/sampleimage"
   url "https://github.com/nomuyoshi/sampleimage/releases/download/0.1.0/sampleimage"
   version "0.1.0"
-  sha256 "a188aaf0e689d23c409c78863374839d57b0a4dfe263efee3cf35774f1f8d9f5"
+  sha256 "9ad4c6ac2256abb286f2852fd3fcfc6548a5bc8e65f89d8ad6edcbc53558656c"
 
   # depends_on "cmake" => :build
 

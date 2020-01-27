@@ -4,9 +4,9 @@
 class Sampleimage < Formula
   desc "sampleimage can create a sample image. Support extentions are .jpeg, .jpg, .png."
   homepage "https://github.com/nomuyoshi/sampleimage"
-  url "https://github.com/nomuyoshi/sampleimage/releases/download/0.1.0/sampleimage"
+  url "https://github.com/nomuyoshi/sampleimage/releases/download/0.1.1/sampleimage"
   version "0.1.1"
-  sha256 "9ad4c6ac2256abb286f2852fd3fcfc6548a5bc8e65f89d8ad6edcbc53558656c"
+  sha256 "95f973980c7f1ea70faa602a1a5103f48472af8dc1e93ab109822e1dcb5f6490"
 
   # depends_on "cmake" => :build
 
